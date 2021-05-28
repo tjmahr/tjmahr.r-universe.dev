@@ -1,0 +1,30 @@
+[
+    {
+        "package": "WrapRmd",
+        "url": "https://github.com/tjmahr/WrapRmd"
+    },
+    {
+        "package": "printy",
+        "url": "https://github.com/tjmahr/printy"
+    },
+    {
+        "package": "notestar",
+        "url": "https://github.com/tjmahr/notestar"
+    },
+    {
+        "package": "tjmisc",
+        "url": "https://github.com/tjmahr/tjmisc"
+    },
+    {
+        "package": "rprime",
+        "url": "https://github.com/tjmahr/rprime"
+    },
+    {
+        "package": "readtextgrid",
+        "url": "https://github.com/tjmahr/readtextgrid"
+    },
+    {
+        "package": "iccbot",
+        "url": "https://github.com/tjmahr/iccbot"
+    }
+]
