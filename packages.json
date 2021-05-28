@@ -26,5 +26,13 @@
     {
         "package": "iccbot",
         "url": "https://github.com/tjmahr/iccbot"
+    },
+    {
+        "package": "polypoly",
+        "url": "https://github.com/tjmahr/polypoly"
+    },
+    {
+        "package": "littlelisteners",
+        "url": "https://github.com/tjmahr/littlelisteners"
     }
 ]
