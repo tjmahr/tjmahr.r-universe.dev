@@ -34,5 +34,9 @@
     {
         "package": "littlelisteners",
         "url": "https://github.com/tjmahr/littlelisteners"
+    },
+    {
+        "package": "wisclabmisc",
+        "url": "https://github.com/tjmahr/wisclabmisc"
     }
 ]
