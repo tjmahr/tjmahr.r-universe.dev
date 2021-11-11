@@ -38,5 +38,9 @@
     {
         "package": "wisclabmisc",
         "url": "https://github.com/tjmahr/wisclabmisc"
+    },
+    {
+        "package": "solarizeddocx",
+        "url": "https://github.com/tjmahr/solarizeddocx"
     }
 ]
