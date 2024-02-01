@@ -42,5 +42,9 @@
     {
         "package": "solarizeddocx",
         "url": "https://github.com/tjmahr/solarizeddocx"
+    },
+    {
+        "package": "huttenlocher1991",
+        "url": "https://github.com/tjmahr/huttenlocher1991"
     }
 ]
